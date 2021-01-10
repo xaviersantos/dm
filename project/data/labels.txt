@@ -1,4 +1,4 @@
-Subject index (1-40)
+Subject index (1_40)
 ECG_original_mean
 ECG_original_std
 ECG_original_trimmean25
